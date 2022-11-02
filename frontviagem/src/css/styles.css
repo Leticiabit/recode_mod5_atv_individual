@@ -1,0 +1,122 @@
+*{
+    background-color:cornflowerblue ;
+    margin: 0%;
+    padding: 0%;
+}
+
+h1{
+    padding: 2%;
+}
+
+img {
+    background-color: #333;
+    align-items: center;
+    padding: 5%;
+}
+
+nav{
+    background-color: #333;
+    width: 100%;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+  }
+  
+li {
+    float: left;
+  }
+  
+li a {
+    background-color: #333;
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  /* Change the link color to #111 (black) on hover */
+li a:hover {
+    background-color: #111;
+  }
+
+
+h1 {
+    color: aliceblue;
+    margin: 5px;
+}
+
+form{
+    background-color: aqua;
+    padding: 5%;
+}
+
+form div{
+    background-color: aqua;
+    margin-bottom: 15px;
+}
+
+form label{
+    background-color: aqua;
+}
+
+.table{
+    background-color: aqua;
+    padding: 5%;
+    border-color: black;
+}
+
+.table td{
+    background-color:aqua;
+}
+
+.table th{
+    background-color: aqua;
+}
+
+.table h1{
+    color: white;
+}
+
+button{
+    margin: 100px;
+}
+
+#apresentacao{
+    background-color: aqua;
+
+}
+
+#apresentacao p{
+    background-color: aqua;
+    padding:6%;
+    text-align: justify;
+
+}
+
+footer{
+    background-color: #333;
+    margin: 0%;
+}
+
+footer p{
+    background-color: #333;
+    margin: 0%;
+    padding-bottom: 2%;
+    color: antiquewhite;
+    text-align: center;
+}
+
+footer h2{
+    background-color: #333;
+    color: antiquewhite ;
+    margin: 0%;
+    padding-top: 2%;
+    padding-bottom: 1%;
+    text-align: center;
+}
